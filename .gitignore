@@ -1,0 +1,11 @@
+# macOS artifacts
+.DS_Store
+
+# Understand-Anything knowledge graph tooling
+.ua/
+
+# Playwright MCP screenshots / logs
+.playwright-mcp/
+
+# IDE
+.idea/
